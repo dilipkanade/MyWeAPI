@@ -9,6 +9,9 @@
     }
   },
   "profiles": {
+    "Docker": {
+      "commandName": "Docker"
+    },
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
